@@ -4,18 +4,13 @@
     "userId": 1,
     "id": 1,
     "title": "adobo",
-    "ingredients": {
-     "patis": "patis",
-     "chicken": "Chicken"
-    }
+    "ingredients": "patis"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "chopsuey",
-   "ingredients":{
-     "gulay": "gulay",
-     "chicken": "Chicken"
+   "ingredients": "Gulay"
    }
   }
 ],
