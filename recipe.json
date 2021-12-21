@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "adobo",
+    "ingredients": ["patis"]
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "chopsuey",
+   "ingredients": ["gulay", "atay"]
+  }
+]
