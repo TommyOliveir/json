@@ -1,48 +1,67 @@
 {
- "Post": [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "adobo",
-    "ingredients": ["2 tablespoons vegetable oil", "1 (3 pound) chicken, cut into pieces", "1 large onion, quartered and sliced", "2 tablespoons minced garlic",
-                    "1 tespoon minced ginger", "⅓ cup white vinegar", "⅔ cup low sodium soy sauce", "2 teaspoons black pepper", "1 bay leaf", "1 tespoon sugar"],
-     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/1200px-Chicken_adobo.jpg",
-    "videourl": "mtyULaM6RfQ"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "chopsuey",
-   "ingredients": ["3 ounces pork sliced", "3 ounces boneless chicken breast sliced", "1 ½ cup cauliflower florets", "1 piece carrot sliced crosswise into thin pieces"
-                  , "15 pieces snow peas"],
-    "url": "https://www.foxyfolksy.com/wp-content/uploads/2016/07/chop-suey-640.jpg",
-   "videourl": "M01Q74AuaEg"
-   }, 
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Ribs Estofado",
-   "ingredients": ["Ribs", "SoySauce", "Salt"],
-    "url": "https://i.ytimg.com/vi/efwUGiLflzM/hqdefault.jpg",
-      "videourl": "1HsEBITe738"
-   }
-  
-],
-  "comments": [
-  {
-    "postId": 1,
-    "id": 1,
-    "name": "id labore ex et quam laborum",
-    "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
-  },
-  {
-    "postId": 1,
-    "id": 2,
-    "name": "quo vero reiciendis velit similique earum",
-    "email": "Jayne_Kuhic@sydney.com",
-    "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
-  }
+    "Post": [
+     {
+       "userId": 1,
+       "id": 1,
+       "title": "adobo",
+       "ingredients": ["2 tablespoons vegetable oil", "1 (3 pound) chicken, cut into pieces", "1 large onion, quartered and sliced", "2 tablespoons minced garlic",
+                       "1 tespoon minced ginger", "⅓ cup white vinegar", "⅔ cup low sodium soy sauce", "2 teaspoons black pepper", "1 bay leaf", "1 tespoon sugar"],
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/1200px-Chicken_adobo.jpg",
+       "videourl": "mtyULaM6RfQ"
+     },
+     {
+       "userId": 1,
+       "id": 2,
+       "title": "chopsuey",
+      "ingredients": ["3 ounces pork sliced"
+                    , "3 ounces boneless chicken breast sliced"
+                    , "1 ½ cup cauliflower florets"
+                    , "1 ½ cup brocculi florets"
+                    , "1 piece carrot sliced crosswise into thin pieces"                    
+                     ,"8 pieces baby corn"
+                     , "1 piece red bell pepper sliced into squares"
+                     , "2 eggs boiled"
+                     , "1 piece yellow onion sliced"
+                     , "4 cloves garlic crushed"
+                     , "¼ cup soy sauce"
+                     , "1 ½ tablespoons oyster sauce"                  
+                     , " 1 tablespoon cornstarch diluted in ½ cup water"
+                     , "¾ cup water"
+                     , "¼ teaspoon ground black pepper"
+                     , "3 tablespoons cooking oil"               
+                     , "1 ½ cups cabbage chopped"],
+                     
+                     
+                     
 
-]
-}
+       "url": "https://www.foxyfolksy.com/wp-content/uploads/2016/07/chop-suey-640.jpg",
+      "videourl": "M01Q74AuaEg"
+      }, 
+     {
+       "userId": 1,
+       "id": 3,
+       "title": "Ribs Estofado",
+      "ingredients": ["Ribs", "SoySauce", "Salt"],
+       "url": "https://i.ytimg.com/vi/efwUGiLflzM/hqdefault.jpg",
+         "videourl": "1HsEBITe738"
+      }
+     
+   ],
+     "comments": [
+     {
+       "postId": 1,
+       "id": 1,
+       "name": "id labore ex et quam laborum",
+       "email": "Eliseo@gardner.biz",
+       "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+     },
+     {
+       "postId": 1,
+       "id": 2,
+       "name": "quo vero reiciendis velit similique earum",
+       "email": "Jayne_Kuhic@sydney.com",
+       "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+     }
+   
+   ]
+   }
