@@ -5,14 +5,14 @@
     "id": 1,
     "title": "adobo",
     "ingredients": ["Toyo", "Manok"],
-     "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FChicken_adobo.jpg%2F1200px-Chicken_adobo.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPhilippine_adobo&tbnid=1CHQgTuVoQWfMM&vet=12ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygAegUIARDyAQ..i&docid=eDY5BnFnruyfuM&w=1200&h=900&itg=1&q=adobo&ved=2ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygAegUIARDyAQ"
+     "url": "linkurl"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "chopsuey",
    "ingredients": ["Gulay", "Atay"],
-    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FChicken_adobo.jpg%2F1200px-Chicken_adobo.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPhilippine_adobo&tbnid=1CHQgTuVoQWfMM&vet=12ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygAegUIARDyAQ..i&docid=eDY5BnFnruyfuM&w=1200&h=900&itg=1&q=adobo&ved=2ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygAegUIARDyAQ"
+    "url": "ARDyAQ"
    }
   
 ],
