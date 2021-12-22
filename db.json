@@ -4,8 +4,8 @@
        "userId": 1,
        "id": 1,
        "title": "adobo",
-       "ingredients": ["2 tablespoons vegetable oil", "1 (3 pound) chicken, cut into pieces", "1 large onion, quartered and sliced", "2 tablespoons minced garlic",
-                       "1 tespoon minced ginger", "⅓ cup white vinegar", "⅔ cup low sodium soy sauce", "2 teaspoons black pepper", "1 bay leaf", "1 tespoon sugar"],
+       "ingredients": {["2 tablespoons vegetable oil", "1 (3 pound) chicken, cut into pieces", "1 large onion, quartered and sliced", "2 tablespoons minced garlic",
+                       "1 tespoon minced ginger", "⅓ cup white vinegar", "⅔ cup low sodium soy sauce", "2 teaspoons black pepper", "1 bay leaf", "1 tespoon sugar"]},
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/1200px-Chicken_adobo.jpg",
        "videourl": "mtyULaM6RfQ"
      },
@@ -13,7 +13,7 @@
        "userId": 1,
        "id": 2,
        "title": "chopsuey",
-      "ingredients": ["3 ounces pork sliced"
+      "ingredients": {["3 ounces pork sliced"
                     , "3 ounces boneless chicken breast sliced"
                     , "1 ½ cup cauliflower florets"
                     , "1 ½ cup brocculi florets"
@@ -29,7 +29,7 @@
                      , "¾ cup water"
                      , "¼ teaspoon ground black pepper"
                      , "3 tablespoons cooking oil"               
-                     , "1 ½ cups cabbage chopped"],
+                     , "1 ½ cups cabbage chopped"]},
                      
                      
                      
@@ -41,7 +41,7 @@
        "userId": 1,
        "id": 3,
        "title": "Ribs Estofado",
-      "ingredients": ["Ribs", "SoySauce", "Salt"],
+      "ingredients": {["Ribs", "SoySauce", "Salt"]},
        "url": "https://i.ytimg.com/vi/efwUGiLflzM/hqdefault.jpg",
          "videourl": "1HsEBITe738"
       }
