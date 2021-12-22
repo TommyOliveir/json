@@ -4,13 +4,13 @@
     "userId": 1,
     "id": 1,
     "title": "adobo",
-    "ingredients": "patis"
+    "ingredients": ["Toyo", "Manok"]
   },
   {
     "userId": 1,
     "id": 2,
     "title": "chopsuey",
-   "ingredients": "Gulay"
+   "ingredients": ["Gulay", "Atay"]
    }
   
 ],
