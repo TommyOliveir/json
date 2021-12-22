@@ -5,14 +5,14 @@
     "id": 1,
     "title": "adobo",
     "ingredients": ["Toyo", "Manok"],
-     "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FChicken_adobo.jpg%2F1200px-Chicken_adobo.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPhilippine_adobo&tbnid=1CHQgTuVoQWfMM&vet=12ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygAegUIARDyAQ..i&docid=eDY5BnFnruyfuM&w=1200&h=900&itg=1&q=adobo&ved=2ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygAegUIARDyAQ"
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/1200px-Chicken_adobo.jpg"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "chopsuey",
-   "ingredients": ["Gulay", "Atay"],
-    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.bonappetit.com%2Fphotos%2F60419b8c970fc321b2086e48%2F1%3A1%2Fw_2560%252Cc_limit%2FGO-Live-Pineapple-Pork-3.jpg&imgrefurl=https%3A%2F%2Fwww.bonappetit.com%2Frecipe%2Fpineapple-pork-adobo&tbnid=HlbTRomK7SiosM&vet=12ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygCegUIARD3AQ..i&docid=D6_kb6ABaLMicM&w=1124&h=1124&itg=1&q=adobo&ved=2ahUKEwic3p7Xz_f0AhWEtKQKHd3qBYEQMygCegUIARD3AQ"
+   "ingredients": ["Gulay", "Atay", "Carrots"],
+    "url": "https://www.foxyfolksy.com/wp-content/uploads/2016/07/chop-suey-640.jpg"
    }
   
 ],
